@@ -2,7 +2,7 @@
 Max Os에서 제공하지 않는 패키지들을 설치하고 관리할 수 있는 패키지 관리자
 <br>
 
-터미널에서 하기 명령어 실행  
+> brew 설치
 ~~~linux
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ~~~
