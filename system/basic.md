@@ -44,3 +44,19 @@ jenv add /Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home
 
 참고 : https://www.jenv.be/  
 https://jogeum.net/15
+
+<br><br><br>
+
+
+## ssh key 생성
+> 생성
+~~~linux
+ssh-keygen -t rsa
+~~~
+
+<br>
+
+-t 옵션으로 암호화 선택 (기본 rsa)  
+Enter file in which to save the key 와 같은 문구가 보인다면 SSH 키 위치와 파일명 지정
+
+
